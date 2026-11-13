@@ -1,0 +1,21 @@
+rank,player_id,name,bootstrap_top10_share,season_removal_top10_share,season_removal_worst_rank,supported_seasons,evidence_tier,role
+1,6396,Tim David,0.9733333333333334,1.0,2,4,Well-supported within model,batting
+2,3125,Nicholas Pooran,0.93,1.0,3,4,Well-supported within model,batting
+3,1077,David Miller,0.7366666666666667,0.8,14,5,Moderate within model,batting
+4,7897,Namboori Tilak Varma,0.6933333333333334,1.0,8,5,Moderate within model,batting
+5,1699,Suryakumar Yadav,0.68,0.8,11,5,Moderate within model,batting
+6,4708,Rinku Singh,0.65,0.8,18,4,Moderate within model,batting
+7,143,Dinesh Karthik,0.51,0.6,22,3,Moderate within model,batting
+8,4260,Heinrich Klaasen,0.5066666666666667,0.8,12,5,Moderate within model,batting
+9,2463,Ryan Burl,0.32666666666666666,0.4,24,3,Uncertain / borderline,batting
+10,6460,Ayush Badoni,0.33666666666666667,0.4,17,5,Uncertain / borderline,batting
+1,6464,Arshdeep Singh,0.9566666666666667,1.0,2,5,Well-supported within model,bowling
+2,2933,Jasprit Bumrah,0.9,1.0,7,4,Well-supported within model,bowling
+3,8661,Matheesha Pathirana,0.8466666666666667,1.0,6,3,Well-supported within model,bowling
+4,6806,Tushar Deshpande,0.8166666666666667,1.0,8,4,Well-supported within model,bowling
+5,19316,Maheesh Theekshana,0.7466666666666667,1.0,8,5,Moderate within model,bowling
+6,4722,Rashid Khan,0.5833333333333334,1.0,9,5,Moderate within model,bowling
+7,7967,Noor Ahmad,0.41,0.8,20,4,Uncertain / borderline,bowling
+8,7808,Marco Jansen,0.42,0.6,20,4,Uncertain / borderline,bowling
+9,4373,Mustafizur Rahman,0.4033333333333333,0.2,15,4,Uncertain / borderline,bowling
+10,2261,Harshal Patel,0.3333333333333333,0.4,15,5,Uncertain / borderline,bowling

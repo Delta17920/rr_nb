@@ -1,0 +1,21 @@
+role,name,rank,impact_only_rank_of_selected_player,without_personal_uplift_rank_of_selected_player,without_consistency_rank_of_selected_player
+batting,Tim David,1,1,1,1
+batting,Nicholas Pooran,2,2,2,2
+batting,David Miller,3,3,3,3
+batting,Namboori Tilak Varma,4,5,4,4
+batting,Suryakumar Yadav,5,4,5,6
+batting,Rinku Singh,6,6,6,5
+batting,Dinesh Karthik,7,7,8,7
+batting,Heinrich Klaasen,8,8,7,8
+batting,Ryan Burl,9,12,9,10
+batting,Ayush Badoni,10,10,11,9
+bowling,Arshdeep Singh,1,1,1,1
+bowling,Jasprit Bumrah,2,2,2,2
+bowling,Matheesha Pathirana,3,3,3,3
+bowling,Tushar Deshpande,4,5,4,5
+bowling,Maheesh Theekshana,5,4,5,4
+bowling,Rashid Khan,6,6,6,6
+bowling,Noor Ahmad,7,7,9,7
+bowling,Marco Jansen,8,12,10,10
+bowling,Mustafizur Rahman,9,10,7,11
+bowling,Harshal Patel,10,9,8,9
